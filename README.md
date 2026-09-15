@@ -66,19 +66,20 @@ Pressione w para abrir no navegador web.
 
 ### 3. Modelo do Arquivo de Entrega (`entrega_sprint3.txt`)
 
-Quando você gravar o vídeo (de até 3 minutos) e subir no YouTube como **Não Listado**, crie este arquivo de texto simples para anexar na plataforma de entrega:
-
 ```text
 PROJETO: ROÇA.AI Viário - Manutenção Preditiva (SP-021)
 SPRINT 3: Protótipo Funcional Completo
 
 INTEGRANTES:
-- Davi Xavier Miranda Amaral | RM: 563572
-- [Nome do Integrante 2] | RM: [Número]
-- [Nome do Integrante 3] | RM: [Número]
+- Davi Xavier | RM: 563572
+- Gabriel Simioni | RM: 563475
+- Guilherme Vega | RM: 562655
+- Gabriel Pereira | RM: 563571
+- Luiz henrique | RM: 563795
+- Felipe Ramalho | RM: 565073
 
 LINK DO REPOSITÓRIO GITHUB:
-https://github.com/[seu-usuario]/[seu-repositorio]
+[https://github.com/[seu-usuario]/[seu-repositorio]](https://github.com/davixavieerr/Sprint-3-CROSS-PLATAFORM)
 
-LINK DO VÍDEO NO YOUTUBE (NÃO LISTADO - ATÉ 3 MIN):
+LINK DO VÍDEO NO YOUTUBE:
 https://youtu.be/[id-do-video]
