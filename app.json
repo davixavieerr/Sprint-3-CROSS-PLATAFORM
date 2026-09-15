@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ROÇA.AI - CCR Motiva",
+    "slug": "roca-ai-ccr-motiva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "A localização é usada para registrar ocorrências e inspeções nos trechos da CCR Motiva."
+        }
+      ]
+    ],
+    "splash": {
+      "backgroundColor": "#0B1F3A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
