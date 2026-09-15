@@ -79,7 +79,7 @@ INTEGRANTES:
 - Felipe Ramalho | RM: 565073
 
 LINK DO REPOSITÓRIO GITHUB:
-[https://github.com/[seu-usuario]/[seu-repositorio]](https://github.com/davixavieerr/Sprint-3-CROSS-PLATAFORM)
+https://github.com/davixavieerr/Sprint-3-CROSS-PLATAFORM
 
 LINK DO VÍDEO NO YOUTUBE:
 https://youtu.be/[id-do-video]
