@@ -4,6 +4,23 @@ Aplicativo mobile multiplataforma desenvolvido para fiscalização e gestão pre
 
 ---
 
+## 👥 Integrantes do Projeto
+
+* Davi Xavier — RM563572
+* Felipe Ramalho — RM565073
+* Gabriel Pereira — RM563571
+* Gabriel Simioni — RM563475
+* Guilherme Vega — RM562655
+* Luiz Henrique — RM563795
+
+---
+
+## 🎬 Demonstração em Vídeo
+
+* **Vídeo no YouTube (Não Listado):** [Assista à demonstração de até 3 minutos](https://youtu.be/cqq3-ENDleY)
+
+---
+
 ## 📱 Decisões Técnicas de Arquitetura
 
 * **Framework:** React Native com Expo e TypeScript.
@@ -50,36 +67,13 @@ Os resultados detalhados dos testes dos 5 fluxos principais encontram-se documen
 ## 🚀 Como Executar o Projeto
 
 ```bash
-# Instalar as dependências
+# 1. Instalar as dependências
 npm install
 
-# Iniciar o servidor Expo
+# 2. Iniciar o servidor Expo
 npx expo start
-
 Pressione a para abrir no emulador Android.
 
 Escaneie o QR Code com o app Expo Go no seu celular físico.
 
 Pressione w para abrir no navegador web.
-
----
-
-### 3. Modelo do Arquivo de Entrega (`entrega_sprint3.txt`)
-
-```text
-PROJETO: ROÇA.AI Viário - Manutenção Preditiva (SP-021)
-SPRINT 3: Protótipo Funcional Completo
-
-INTEGRANTES:
-- Davi Xavier | RM: 563572
-- Gabriel Simioni | RM: 563475
-- Guilherme Vega | RM: 562655
-- Gabriel Pereira | RM: 563571
-- Luiz henrique | RM: 563795
-- Felipe Ramalho | RM: 565073
-
-LINK DO REPOSITÓRIO GITHUB:
-https://github.com/davixavieerr/Sprint-3-CROSS-PLATAFORM
-
-LINK DO VÍDEO NO YOUTUBE:
-https://youtu.be/[id-do-video]
