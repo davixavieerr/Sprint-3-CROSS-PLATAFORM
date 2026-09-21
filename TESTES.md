@@ -1,7 +1,16 @@
 # Documento de Testes Manuais — Sprint 3
+
 **Projeto:** ROÇA.AI Viário — Monitoramento e Manutenção Preditiva (SP-021)  
 **Ambiente de Teste:** Emulador Android / Dispositivo Móvel (Expo Go) / Web  
-**Responsável:** Equipe ROÇA.AI  
+**Demonstração em Vídeo:** [https://youtu.be/cqq3-ENDleY](https://youtu.be/cqq3-ENDleY)  
+
+**Integrantes / Responsáveis:**
+* Davi Xavier — RM563572
+* Felipe Ramalho — RM565073
+* Gabriel Pereira — RM563571
+* Gabriel Simioni — RM563475
+* Guilherme Vega — RM562655
+* Luiz Henrique — RM563795
 
 ---
 
